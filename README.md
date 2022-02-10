@@ -34,7 +34,7 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 * BBC R cookbook: https://bbc.github.io/rcookbook/
 * Gemaakt door de man die mij de Shiny cursus gaf: https://buurt.eindhoven.nl/app/buurt
 * https://www.twitter.com is bij uitstek een tool waarin mensen hun visualisaties en de daarbij horende code met elkaar uitwisselen. Zoek eens op #TidyTuesday, #Dataviz, #DataVisualisation, #Rstats, #ggplot2, of op een combinatie zoektermen. Door #Rstats toe te voegen krijg je overwegend visualisaties die specifiek met R gemaakt zijn.  
-* Het maken van een vulcaanplot is voor ons als gemeente Amsterdam echt totaal irrelevant. Dus daar ga je niet naar kijken toch?: https://renenyffenegger.ch/notes/development/languages/R/packages/datasets/volcano/index
+* Het maken van een vulkaanplot is voor ons als gemeente Amsterdam echt totaal irrelevant. Dus daar ga je niet naar kijken toch?: https://renenyffenegger.ch/notes/development/languages/R/packages/datasets/volcano/index
 
 
 ### Verder lezen
