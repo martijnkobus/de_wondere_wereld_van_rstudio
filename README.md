@@ -26,7 +26,7 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 * <b>Base R</b> is de standaard manier om binnen RStudio je datamanagement te doen. Je hoeft daarvoor geen pakketten zelf te installeren. Veel nieuwe gebruikers klagen over een steile leercurve.
 * <b>dplyr</b> is een elegante grammatica voor datamanipulatie in R. Als je datamangement in R wilt doen, dan is het de moeite waard om je hierin te verdiepen: https://r4ds.had.co.nz/transform.html
 * <b>sqldf</b> stelt je in staat om dataframe te manipuleren met SQL: https://github.com/ggrothendieck/sqldf
-* <b>reticulate</b> stelt je in staat om Python code te runnen in RStudio: zie https://github.com/rstudio/reticulate. Nuttig als je al handig met Python bent. Je kunt een nieuw Python script aanmaken onder File>>New File>>Python script. Let op: als je Python objecten naar de R-omgeving wilt trekken, dan moet je reticulate inladen en naar de objecten refereren als <i>py$tabelNaam</i>.
+* <b>reticulate</b> stelt je in staat om Python code te runnen in RStudio: zie https://github.com/rstudio/reticulate. Nuttig als je al handig met Python bent. Je kunt een nieuw Python script aanmaken onder File>>New File>>Python script. Let op: als je Python objecten naar de R-omgeving wilt trekken, dan moet je reticulate inladen in je R sessie ("library(reticulate)") en naar de objecten refereren als <i>py$tabelNaam</i>.
 * Tot slot kun je met <b>read_excel</b> natuurlijk ook gewoon een door jou bewerkt Excelletje inlezen. Dit is vooral handig als je eenmalig een dashboardje wilt maken. Klik in het menu op File>>Import Dataset>>From Excel.
 
 ### Op zoek naar insipratie?
