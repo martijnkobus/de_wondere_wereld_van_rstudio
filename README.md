@@ -32,6 +32,8 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 ### Op zoek naar insipratie?
 * Voor meer toffe html widgets: https://www.htmlwidgets.org/
 * BBC R cookbook: https://bbc.github.io/rcookbook/
+* Gemaakt door de man die mij de Shiny cursus gaf: https://buurt.eindhoven.nl/app/buurt
+* Twitter is bij uitstek een tool waarin mensen hun visualisaties en de daarbij horende code met elkaar uitwisselen. Zoek eens op #TidyTuesday, #Dataviz, #DataVisualisation, #Rstats, #ggplot2, of op een combinatie zoektermen. Door #Rstats toe te voegen krijg je overwegend visualisaties die specifiek met R gemaakt zijn.  
 * 
 
 ### Verder lezen
