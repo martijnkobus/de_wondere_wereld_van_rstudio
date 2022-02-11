@@ -39,8 +39,5 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 
 ### Verder lezen
 * Ik kwam laatst deze database tegen met beschikbare resources voor het leren van R:  https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R
-* Deze uitleg over R is gericht op journalisten, maar ik vond het erg goed geschreven: https://learn.r-journalism.com/en/
-![image](https://user-images.githubusercontent.com/92182838/153588821-e3465a48-d3d4-4791-b281-db721ab9ba2a.png)
-
- 
-* Supergoed standaardwerk over shiny apps bouwen:https://mastering-shiny.org/
+* Deze goed geschreven uitleg over R richt zich op journalisten: https://learn.r-journalism.com/en/
+* Standaardwerk over shiny apps :https://mastering-shiny.org/
