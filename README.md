@@ -21,7 +21,7 @@ Je kunt visualisaties wegschrijven als losse HTML-vriendelijke figuren of ze int
 
 ### Het bouwen van het dashboard
 Een meer geavanceerd dashboard is makkelijker te bouwen, maar het hosten heeft iets meer voet in de aarde:
-* Gebruik <b>flexdashboard</b> voor eenvoudige dashboards . Je hebt volledig controle en hosten is eenvoudig. Zie https://pkgs.rstudio.com/flexdashboard/ voor meer info. 
+* Gebruik <b>flexdashboard</b> voor eenvoudige dashboards . Je hebt volledig controle en hosten is eenvoudig. Zie https://pkgs.rstudio.com/flexdashboard/ en https://garrettgman.github.io/rmarkdown/flexdashboard/index.html voor meer info. 
 * Gebruik <b>Shiny</b> voor wat meer geavanceerde dashboards. Het bouwen van zo'n dashboard is eenvoudiger dan het in eerste instantie lijkt en het is extreem flexibel in de mogelijkheden die het biedt. Minder eenvoudig te hosten dan flexdashboard. 
 
 ### Datamanagement
@@ -41,12 +41,14 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 
 
 ### Verder lezen? Alle onderstaande links zijn vrij toegankelijk:
-* R visualisatie  gratis e-boeken: 
+* R visualisatie gratis e-boeken: 
   - https://stulp.gmw.rug.nl/ggplotworkshop/
   - https://ggplot2-book.org/
   - https://plotly-r.com/
 * Deze goed geschreven uitleg over R richt zich op journalisten: https://learn.r-journalism.com/en/
-* Standaardwerk over shiny apps :https://mastering-shiny.org/
+* Als je geinteresseerd bent in Shiny apps, dan kan ik aanbevelen om met dit standaard werk te beginnen: https://mastering-shiny.org/ , als als je meer van video's houdt hier: https://shiny.rstudio.com/tutorial/  Meer resources over Shiny:
+  - https://unleash-shiny.rinterface.com/index.html
+  -  
 * Vergelijking tussen dplyr en Pandas, zie 
  - https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-which-is-the-best-data-analysis-library/
  - https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07
