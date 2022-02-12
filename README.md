@@ -8,6 +8,9 @@ Ik ga jullie daartoe enkele van mijn favo-pakketten laten zien.<br>
 Het is natuurlijk geen uitputtende lijst, want dan zitten we hier morgen nog ;D<br>
 
 
+### Pakketten installeren in R
+Net als bij Python zul je pakketten moeten installeren om 
+
 ### Het vullen van het dashboard
 We vullen onze dashboards met figuren, tabellen, kaarten en andere objecten:
 * <b>Leaflet</b> is een pakket om interactieve kaarten te maken, zie http://rstudio.github.io/leaflet/ 
@@ -37,7 +40,16 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 * Het maken van een vulkaanplot is voor ons als gemeente Amsterdam echt totaal irrelevant. Dus daar ga je niet naar kijken toch?: https://renenyffenegger.ch/notes/development/languages/R/packages/datasets/volcano/index
 
 
-### Verder lezen
-* Ik kwam laatst deze database tegen met beschikbare resources voor het leren van R:  https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R
+### Verder lezen? Alle onderstaande links zijn vrij toegankelijk:
+* R visualisatie  gratis e-boeken: 
+  - https://stulp.gmw.rug.nl/ggplotworkshop/
+  - https://ggplot2-book.org/
+  - https://plotly-r.com/
 * Deze goed geschreven uitleg over R richt zich op journalisten: https://learn.r-journalism.com/en/
 * Standaardwerk over shiny apps :https://mastering-shiny.org/
+* Vergelijking tussen dplyr en Pandas, zie 
+ - https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-which-is-the-best-data-analysis-library/
+ - https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07
+ - 
+
+Hierboven niet gevonden wat je zoekt? Bekijk dan ook eens deze database tegen met beschikbare resources voor het leren van R:  https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R
