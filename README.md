@@ -41,10 +41,11 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 
 
 ### Verder lezen? Alle onderstaande links zijn vrij toegankelijk:
-* R visualisatie gratis e-boeken: 
+* Visualisaties in R: 
   - https://stulp.gmw.rug.nl/ggplotworkshop/
   - https://ggplot2-book.org/
   - https://plotly-r.com/
+  - https://bookdown.org/mikemahoney218/LectureBook/introduction-to-r-and-data-visualization.html 
 * Deze goed geschreven uitleg over R richt zich op journalisten: https://learn.r-journalism.com/en/
 * Als je geinteresseerd bent in Shiny apps, dan kan ik aanbevelen om met dit standaard werk te beginnen: https://mastering-shiny.org/ , als als je meer van video's houdt hier: https://shiny.rstudio.com/tutorial/  Meer resources over Shiny:
   - https://unleash-shiny.rinterface.com/index.html
