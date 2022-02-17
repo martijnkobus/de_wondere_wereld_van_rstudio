@@ -42,6 +42,7 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 
 ### Verder lezen? Alle onderstaande links zijn vrij toegankelijk:
 * Visualisaties in R: 
+  - https://r-graphics.org/
   - https://stulp.gmw.rug.nl/ggplotworkshop/
   - https://ggplot2-book.org/
   - https://plotly-r.com/
