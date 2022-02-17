@@ -54,6 +54,7 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 * Vergelijking tussen dplyr en Pandas, zie 
  - https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-which-is-the-best-data-analysis-library/
  - https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07
+* GIT integratie: https://r-pkgs.org/git.html
  - 
 
 Hierboven niet gevonden wat je zoekt? Bekijk dan ook eens deze database tegen met beschikbare resources voor het leren van R:  https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R
