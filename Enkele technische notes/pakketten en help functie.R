@@ -1,4 +1,7 @@
 # =============================================== #
+#                                                 #
+#    PAKKETTEN EN HELP                            #
+#                                                 #
 #    Paar technische notes over R-code            #
 #    De wondere wereld van RStudio                #
 #    Martijn Kobus, feb '22                       #
@@ -16,7 +19,7 @@
 # Helpfunctie van writexl -------------------------------------------------
 
 # Opdracht: raadpleeg de documentatie van writexl.
-# Lrijg jij ook zo'n nostalgie naar de jaren 90? Waarom?
+# Krijg jij ook zo'n nostalgie naar de jaren 90? Waarom?
 
 #install.packages("writexl")
 library(writexl)
@@ -24,6 +27,7 @@ library(writexl)
 
 
 # Helpfunctie van Leaflet -------------------------------------------------
+
 # Opdracht: lukt het je om o.b.v. de leaflet help al je eerste kaartje te maken en te exporteren?
 # Hint: gebruik de voorbeeld-code die te vinden is onder examples..
 
