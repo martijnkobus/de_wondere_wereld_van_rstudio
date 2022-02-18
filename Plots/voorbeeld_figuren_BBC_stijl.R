@@ -2,7 +2,7 @@
 #                                                 #
 #    Plots in BBC stijl                           #
 #                                                 #
-#    Paar technische notes over R-code            #
+#    Plots                                        #
 #    De wondere wereld van RStudio                #
 #    Martijn Kobus, feb '22                       #
 # =============================================== #
