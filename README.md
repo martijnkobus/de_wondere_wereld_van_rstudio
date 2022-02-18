@@ -1,12 +1,8 @@
 # De wondere wereld van <sub>mar</sub>R<sub>tyn</sub>
 
 ### Welkom!
-
-Jullie willen vast zo min mogelijk naar mijn gepraat luisteren en snel  mogelijk zelf  hands-on aan de slag.<br>
-Met deze repo hoop ik jullie hierin een beetje op gang te helpen.<br>
-Ik ga jullie daartoe enkele van mijn favo-pakketten laten zien.<br>
+Met deze repo wil ik jullie enkele van mijn favo R-pakketten laten zien.
 Het is natuurlijk geen uitputtende lijst, want dan zitten we hier morgen nog ;D<br>
-
 
 ### Pakketten installeren in R
 Net als bij Python zul je pakketten moeten installeren om 
