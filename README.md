@@ -1,7 +1,7 @@
 # De wondere wereld van <sub>mar</sub>R<sub>tyn</sub>
 
 ### Welkom!
-Met deze repo wil ik jullie enkele van mijn favo R-pakketten laten zien.
+Met deze repo wil ik jullie enkele van mijn favo R-pakketten laten zien.<br>
 Het is natuurlijk geen uitputtende lijst, want dan zitten we hier morgen nog ;D<br>
 
 ### Pakketten installeren in R
