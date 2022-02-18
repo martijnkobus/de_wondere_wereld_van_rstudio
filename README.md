@@ -46,8 +46,8 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 * Deze goed geschreven uitleg over R richt zich op journalisten: https://learn.r-journalism.com/en/
 * Als je geinteresseerd bent in Shiny apps, dan kan ik aanbevelen om met dit standaard werk te beginnen: https://mastering-shiny.org/ , als als je meer van video's houdt hier: https://shiny.rstudio.com/tutorial/  
 * Vergelijking tussen dplyr en Pandas, zie 
- - https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-which-is-the-best-data-analysis-library/
- - https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07
+  - https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-which-is-the-best-data-analysis-library/
+  - https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07
 * GIT integratie in RStudio: https://r-pkgs.org/git.html
  
 
