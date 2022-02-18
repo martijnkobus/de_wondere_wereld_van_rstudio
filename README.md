@@ -5,7 +5,7 @@ Met deze repo wil ik jullie enkele van mijn favo R-pakketten laten zien.<br>
 Het is natuurlijk geen uitputtende lijst, want dan zitten we hier morgen nog ;D<br>
 
 ### Pakketten installeren in R
-Net als bij Python zul je pakketten moeten installeren om 
+Net als bij Python zul je pakketten moeten installeren om serieus aan de slag te kunnen. Met install.packages("naam_van_het_pakket") installeer je eenmalig het pakket. Met library(naam_van_het_pakket) laad je het in. <br><br>
 
 ### Het vullen van het dashboard
 We vullen onze dashboards met figuren, tabellen, kaarten en andere objecten:
