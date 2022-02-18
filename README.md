@@ -5,7 +5,7 @@ Met deze repo wil ik jullie enkele van mijn favo R-pakketten laten zien.<br>
 Het is natuurlijk geen uitputtende lijst, want dan zitten we hier morgen nog ;D<br>
 
 ### Pakketten installeren in R
-Net als bij Python zul je pakketten moeten installeren om serieus aan de slag te kunnen. Met install.packages("naam_van_het_pakket") installeer je eenmalig het pakket. Met library(naam_van_het_pakket) laad je het in. <br><br>
+Net als bij Python zul je pakketten moeten installeren om serieus aan de slag te kunnen. Met <i>install.packages</i>("naam_van_het_pakket") installeer je eenmalig het pakket. Met <i>library</i>(naam_van_het_pakket) laad je het in. <br>
 
 ### Het vullen van het dashboard
 We vullen onze dashboards met figuren, tabellen, kaarten en andere objecten:
@@ -44,13 +44,11 @@ Je kunt je dashboard op verschillende manieren met data vullen:
   - https://plotly-r.com/
   - https://bookdown.org/mikemahoney218/LectureBook/introduction-to-r-and-data-visualization.html 
 * Deze goed geschreven uitleg over R richt zich op journalisten: https://learn.r-journalism.com/en/
-* Als je geinteresseerd bent in Shiny apps, dan kan ik aanbevelen om met dit standaard werk te beginnen: https://mastering-shiny.org/ , als als je meer van video's houdt hier: https://shiny.rstudio.com/tutorial/  Meer resources over Shiny:
-  - https://unleash-shiny.rinterface.com/index.html
-  -  
+* Als je geinteresseerd bent in Shiny apps, dan kan ik aanbevelen om met dit standaard werk te beginnen: https://mastering-shiny.org/ , als als je meer van video's houdt hier: https://shiny.rstudio.com/tutorial/  
 * Vergelijking tussen dplyr en Pandas, zie 
  - https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-which-is-the-best-data-analysis-library/
  - https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07
 * GIT integratie in RStudio: https://r-pkgs.org/git.html
- - 
+ 
 
 Hierboven niet gevonden wat je zoekt? Bekijk dan ook eens deze database tegen met beschikbare resources voor het leren van R:  https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R
