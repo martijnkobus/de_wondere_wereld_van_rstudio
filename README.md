@@ -15,7 +15,7 @@ We vullen onze dashboards met figuren, tabellen, kaarten en andere objecten:
 Je kunt kaarten, grafieken en tabellen wegschrijven als losse HTML documenten. Je kunt er ook voor kiezen om deze HTML elementen te integreren in een dashboard.
 
 ### Het bouwen van het dashboard
-Een meer geavanceerd dashboard is makkelijker te bouwen, maar het hosten heeft iets meer voet in de aarde:
+In deze cursus ligt ik Flexdashboard en Shiny toe als tools om een dashboardje om je HTML-elementen heen te bouwen:
 * Gebruik <b>flexdashboard</b> voor eenvoudige dashboards . Je hebt volledig controle en hosten is eenvoudig. Zie https://pkgs.rstudio.com/flexdashboard/ en https://garrettgman.github.io/rmarkdown/flexdashboard/index.html voor meer info. 
 * Gebruik <b>Shiny</b> voor wat meer geavanceerde dashboards. Het bouwen van zo'n dashboard is eenvoudiger dan het in eerste instantie lijkt en het is extreem flexibel in de mogelijkheden die het biedt. Minder eenvoudig te hosten dan flexdashboard. 
 
