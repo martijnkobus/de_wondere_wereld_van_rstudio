@@ -4,7 +4,7 @@
 Met deze repo wil ik jullie enkele van mijn favo R-pakketten laten zien 😄.<br>
 
 ### Pakketten installeren in R
-Net als Python drijft R op pakketten voor het serieuze datawerk. Deze pakketten moet je eenmalig installeren. Meestal ontdekt RStudio zelf dat het een bepaald pakket nodig heeft om een script te kunnen draaien. Er verschijnt dan eenmalig een gele banner bovenin je interface waarin je wordt aangespoord om een pakket te installeren. Je kunt hier op install drukken en dan moet je even geduld hebben. Met <i>library</i>(naam_van_het_pakket) laad je het pakket vervolgens in. <br> 
+Net als Python drijft R op pakketten voor het serieuze datawerk. Deze pakketten moet je eenmalig installeren. Meestal ontdekt RStudio zelf dat het een bepaald pakket nodig heeft om een script te kunnen draaien. Er verschijnt dan eenmalig een gele banner bovenin je scherm waarin je wordt aangespoord om een pakket te installeren. Je kunt hier op install drukken en dan moet je even geduld hebben. Met <i>library</i>(naam_van_het_pakket) laad je het pakket vervolgens in. <br> 
 
 ### Het vullen van het dashboard
 We vullen onze dashboards met figuren, tabellen, kaarten en andere objecten:
