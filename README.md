@@ -12,7 +12,7 @@ We vullen onze dashboards met figuren, tabellen, kaarten en andere objecten:
 * <b>ggplot2</b> is een pakket voor het maken van visualisaties in R, zie https://www.r-graph-gallery.com/ voor een gallery en https://github.com/tidyverse/ggplot2 voor meer gedetailleerde info<br>
 * <b>DT (datatable)</b> stelt je in staat om interactieve html tabellen te maken, zie https://rstudio.github.io/DT/ <br>
 
-Je kunt visualisaties wegschrijven als losse HTML-vriendelijke figuren of ze integreren in een dashboard. 
+Je kunt kaarten, grafieken en tabellen wegschrijven als losse HTML documenten. Je kunt er ook voor kiezen om deze HTML elementen te integreren in een dashboard.
 
 ### Het bouwen van het dashboard
 Een meer geavanceerd dashboard is makkelijker te bouwen, maar het hosten heeft iets meer voet in de aarde:
