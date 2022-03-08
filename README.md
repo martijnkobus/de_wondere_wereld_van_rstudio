@@ -21,20 +21,21 @@ Een meer geavanceerd dashboard is makkelijker te bouwen, maar het hosten heeft i
 
 ### Datamanagement
 Je kunt je dashboard op verschillende manieren met data vullen:
-* <b>Base R</b> is de standaard manier om binnen RStudio je datamanagement te doen. Je hoeft daarvoor geen pakketten zelf te installeren. Veel nieuwe gebruikers klagen over een steile leercurve.
+* Je kunt met <b>read_excel</b> een door jou bewerkt Excelletje inlezen. Dit is vooral handig als je eenmalig een dashboardje wilt maken. Klik in het menu op File>>Import Dataset>>From Excel.
 * <b>dplyr</b> is een elegante grammatica voor datamanipulatie in R. Als je datamangement in R wilt doen, dan is het de moeite waard om je hierin te verdiepen: https://r4ds.had.co.nz/transform.html
-* <b>sqldf</b> stelt je in staat om dataframe te manipuleren met SQL: https://github.com/ggrothendieck/sqldf
-* <b>reticulate</b> stelt je in staat om Python code te runnen in RStudio: zie https://github.com/rstudio/reticulate. Nuttig als je al handig met Python bent. Je kunt een nieuw Python script aanmaken onder File>>New File>>Python script. Let op: als je Python objecten naar de R-omgeving wilt trekken, dan moet je reticulate inladen in je R sessie ("library(reticulate)") en naar de objecten refereren als <i>py$tabelNaam</i>.
-* Tot slot kun je met <b>read_excel</b> natuurlijk ook gewoon een door jou bewerkt Excelletje inlezen. Dit is vooral handig als je eenmalig een dashboardje wilt maken. Klik in het menu op File>>Import Dataset>>From Excel.
+* <b>sqldf</b> stelt je in staat om dataframes te manipuleren met SQL: https://github.com/ggrothendieck/sqldf
+* <b>reticulate</b> stelt je in staat om Python code te runnen in RStudio: zie https://github.com/rstudio/reticulate. Vooral nuttig als je al handig met Python bent. Je kunt een nieuw Python script aanmaken onder File>>New File>>Python script. Let op: als je Python objecten naar de R-omgeving wilt trekken, dan moet je reticulate inladen in je R sessie ("library(reticulate)") en naar de objecten refereren als <i>py$tabelNaam</i>.
+* Ik zou niet aanbevelen om je datamanagement in <b>standaard (base) R</b> te doen. Veel nieuwe gebruikers klagen over een steile leercurve en je scripts worden al gauw wat rommelig. 
+
 
 ### Op zoek naar insipratie?
 * Voor meer toffe html widgets: https://www.htmlwidgets.org/
 * BBC R cookbook: https://bbc.github.io/rcookbook/
 * Gemaakt door de man die mij de Shiny cursus gaf: https://buurt.eindhoven.nl/app/buurt
 * https://www.twitter.com is bij uitstek een tool waarin mensen hun visualisaties en de daarbij horende code met elkaar uitwisselen. Zoek eens op #TidyTuesday, #Dataviz, #DataVisualisation, #Rstats, #ggplot2, of op een combinatie zoektermen. Door #Rstats toe te voegen krijg je overwegend visualisaties die specifiek met R gemaakt zijn.  
-* Het maken van een vulkaanplot is voor ons als gemeente Amsterdam echt totaal irrelevant. Dus daar ga je niet naar kijken toch?: https://renenyffenegger.ch/notes/development/languages/R/packages/datasets/volcano/index
+* Het maken van een vulkaanplot is voor ons als gemeente Amsterdam echt totaal irrelevant. Dus daar ga je niet naar kijken toch? ;p : https://renenyffenegger.ch/notes/development/languages/R/packages/datasets/volcano/index
 
-### Verder lezen? Alle onderstaande links zijn vrij toegankelijk:
+### Verder lezen over R? 
 * Visualisaties in R: 
   - https://r-graphics.org/
   - https://stulp.gmw.rug.nl/ggplotworkshop/
