@@ -1,11 +1,10 @@
 # De wondere wereld van <sub>mar</sub>R<sub>tyn</sub>
 
 ### Welkom!
-Met deze repo wil ik jullie enkele van mijn favo R-pakketten laten zien.<br>
-Het is natuurlijk geen uitputtende lijst, want dan zitten we hier morgen nog ;D<br>
+Met deze repo wil ik jullie enkele van mijn favo R-pakketten laten zien 😄.<br>
 
 ### Pakketten installeren in R
-Net als bij Python zul je pakketten moeten installeren om serieus aan de slag te kunnen. Met <i>install.packages</i>("naam_van_het_pakket") installeer je eenmalig het pakket. Met <i>library</i>(naam_van_het_pakket) laad je het in. <br>
+Net als Python drijft R op pakketten voor het serieuze datawerk. Deze pakketten moet je eenmalig installeren. Meestal ontdekt RStudio zelf dat het een bepaald pakket nodig heeft om een script te kunnen draaien. Er verschijnt dan eenmalig een gele banner bovenin je interface waarin je wordt aangespoord om een pakket te installeren. Je kunt hier op install drukken en dan moet je even geduld hebben. Met <i>library</i>(naam_van_het_pakket) laad je het pakket vervolgens in. <br> 
 
 ### Het vullen van het dashboard
 We vullen onze dashboards met figuren, tabellen, kaarten en andere objecten:
@@ -35,7 +34,6 @@ Je kunt je dashboard op verschillende manieren met data vullen:
 * https://www.twitter.com is bij uitstek een tool waarin mensen hun visualisaties en de daarbij horende code met elkaar uitwisselen. Zoek eens op #TidyTuesday, #Dataviz, #DataVisualisation, #Rstats, #ggplot2, of op een combinatie zoektermen. Door #Rstats toe te voegen krijg je overwegend visualisaties die specifiek met R gemaakt zijn.  
 * Het maken van een vulkaanplot is voor ons als gemeente Amsterdam echt totaal irrelevant. Dus daar ga je niet naar kijken toch?: https://renenyffenegger.ch/notes/development/languages/R/packages/datasets/volcano/index
 
-
 ### Verder lezen? Alle onderstaande links zijn vrij toegankelijk:
 * Visualisaties in R: 
   - https://r-graphics.org/
@@ -50,5 +48,4 @@ Je kunt je dashboard op verschillende manieren met data vullen:
   - https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07
 * GIT integratie in RStudio: https://r-pkgs.org/git.html
  
-
 Hierboven niet gevonden wat je zoekt? Bekijk dan ook eens deze database tegen met beschikbare resources voor het leren van R:  https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R
