@@ -36,8 +36,8 @@ server <- function(input, output, session) {
     mutate(popupLabel = paste0("<b>", Restaurant.naam,"</b>", "<br/>","</b>", "<br/>",
            paste0("Aanbevolen door:  <u>", Naam, "</u>")))
 
-  restaurantsDataTabel <- import[,1:4]
-  names(restaurantsDataTabel) <- c("collega naam", "restaurant naam", "lat", "lon")
+  restaurantsDataTabel <- import[,1:5]
+  names(restaurantsDataTabel) <- c("collega naam", "restaurant naam", "lat", "lon", "vlees/vis/vega")
   
   output$dt_restaurants <- DT::renderDataTable({
     datatable(restaurantsDataTabel,
