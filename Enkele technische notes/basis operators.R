@@ -50,10 +50,9 @@ mijnKaartje
 
 # Wat denk je dat er nu gebeurt?
 mijnKaartje  %>% 
-  addMarkers(lng = 5.172797,
+  addPopups(lng = 5.172797,
              lat = 52.224984,
-             popup = "<b>Hier ligt de mooiste stad van Nederland!</b>",
-             labelOptions = labelOptions(noHide = T))
+             popup = "<b>Hier ligt de mooiste stad van Nederland!</b>")
 
 
 
