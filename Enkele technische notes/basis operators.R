@@ -32,13 +32,9 @@ head(mtcars)
 head(mtcars$mpg)
 
 
-
 # Pipe operator ('%>%') leest als doe eerst.. en dan .. ---------------------
 
 # install.package("leaflet")
-# install.package("dplyr")
-
-library(dplyr)
 library(leaflet)
 
 mijnKaartje <- leaflet() %>%

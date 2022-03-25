@@ -19,5 +19,5 @@ library(leaflet)
 names(providers)
 
 leaflet() %>%
-  addProviderTiles("vul_hier_de_naam_van_een_pakket_in"  ) %>%
+  addProviderTiles("vul_hier_de_naam_van_een_pakket_in") %>%
   setView(lng = 4.8, lat = 52.4, zoom = 10) 
