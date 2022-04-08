@@ -1,4 +1,6 @@
-# Losjes gebaseerd op: https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/
+# Losjes gebaseerd op: 
+
+# https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/
 
 library(gifski)
 library(ggplot2)

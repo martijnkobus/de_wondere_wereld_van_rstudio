@@ -45,10 +45,11 @@ mijnKaartje
 
 
 # Wat denk je dat er nu gebeurt?
-mijnKaartje  %>% 
+mijnKaartje <- mijnKaartje  %>% 
   addPopups(lng = 5.172797,
              lat = 52.224984,
-             popup = "<b>Hier ligt de mooiste stad van Nederland!</b>")
+             popup = "<b>Hier ligt de mooiste stad van Nederland!</b>") %>%
+  addMarkers()
 
 
 
