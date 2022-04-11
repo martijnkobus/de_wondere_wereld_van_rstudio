@@ -132,5 +132,7 @@ mijnKaartje3 %>%
                             group = "stadsdelen",
                             color = "black",
                             fill = FALSE,
-                            weight = 3)
+                            weight = 3)%>%
+  setView(lng = 4.8, lat = 52.4, zoom = 10) 
+
 
