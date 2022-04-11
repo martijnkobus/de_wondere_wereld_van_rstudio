@@ -44,13 +44,16 @@ mijnKaartje
 
 # Verrijk kaartje met andere achtergrondkaarten ---------------------------
 
-mijnKaartje2 <- mijnKaartje %>%
+mijnKaartje2 <- leaflet() %>%
+  addProviderTiles("OpenStreetMap", group = "OSM") %>%
   addProviderTiles("CartoDB", group = "Carto") %>%
   addProviderTiles("Esri.WorldImagery", group = "Esri") %>%
   addProviderTiles("Stamen.TonerBackground", group = "Stamen") %>%
-  addLayersControl(baseGroups = c("OSM", "Carto", "Esri", "Stamen"))
+  addLayersControl(baseGroups = c("OSM", "Carto", "Esri", "Stamen"))%>%
+  setView(lng = 4.8, lat = 52.4, zoom = 10)
 
 mijnKaartje2
+
 
 
 # Voorbeeld: hoe voeg ik puntelementen toe? ---------------------------------
@@ -132,4 +135,15 @@ mijnKaartje3 %>%
                             weight = 3)
 
 
-#Illustreren: figuur inlezen vanuit database
+# Inlezen vanuit database -------------------------------------------------
+
+source("~/GIT/cursus wondere wereld van RStudio/Cursus deel 2/functie_read_geom_table_from_database.R", encoding = 'UTF-8')
+
+sql <- "select * from u_kobus001.sb_nassaukade"
+
+nassaukade <- readGeomTableFromDbase(readGeomTableFromDbase(sqlQuery = sql))
+
+dbDisconnect(con)
+on.exit(dbUnloadDriver(drv), add = TRUE)
+
+
