@@ -134,16 +134,3 @@ mijnKaartje3 %>%
                             fill = FALSE,
                             weight = 3)
 
-
-# Inlezen vanuit database -------------------------------------------------
-
-source("~/GIT/cursus wondere wereld van RStudio/Cursus deel 2/functie_read_geom_table_from_database.R", encoding = 'UTF-8')
-
-sql <- "select * from u_kobus001.sb_nassaukade"
-
-nassaukade <- readGeomTableFromDbase(readGeomTableFromDbase(sqlQuery = sql))
-
-dbDisconnect(con)
-on.exit(dbUnloadDriver(drv), add = TRUE)
-
-
